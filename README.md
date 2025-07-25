@@ -37,7 +37,7 @@ Crafting scalable web applications with clean code and creative solutions.
 - Integrating APIs and managing app state
 
 📫 **How to reach me:**
-- LinkedIn: [linkedin.com/in/kismatgrewal](https://linkedin.com/in/kismatgrewal)  
+- LinkedIn:(https://www.linkedin.com/in/kismat-grewal/)
 - Email: [kismatgrewal4@gmail.com]   
 - Portfolio: [okkcode.com](https://okkcode.com)
 
