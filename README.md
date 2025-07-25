@@ -39,5 +39,5 @@ Crafting scalable web applications with clean code and creative solutions.
 📫 **How to reach me:**
 - LinkedIn:(https://www.linkedin.com/in/kismat-grewal/)
 - Email: [kismatgrewal4@gmail.com]   
-- Portfolio: [okkcode.com](https://okkcode.com)
+- Portfolio: (https://kismatgrewal.me)
 
